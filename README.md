@@ -1,4 +1,4 @@
-Soy desarrollador web, con experiencia, principalmente, como desarrollador back-end. Aunque, en menor medida, también he participado en el desarrollo de proyectos en la parte de front-end.
+Soy desarrollador web, con experiencia, principalmente, en la parte de back-end. Pero también he participado como desarrollador front-end en algunos proyectos.
 
 Apasionada por los retos y en constante aprendizaje. Busco proyectos donde pueda participar en diferentes etapas del mismo y apoyar en las distintas áreas del desarrollo.
 
