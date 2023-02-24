@@ -1,4 +1,6 @@
-### Hi there 👋
+Soy desarrollador web, con experiencia, principalmente, como desarrollador back-end. Aunque, en menor medida, también he participado en el desarrollo de proyectos en la parte de front-end.
+
+Apasionada por los retos y en constante aprendizaje. Busco proyectos donde pueda participar en diferentes etapas del mismo y apoyar en las distintas áreas del desarrollo.
 
 <!--
 **silviaherguedas/silviaherguedas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
